@@ -12,7 +12,7 @@ namespace dimensions_mcl.forceliquidmerge
     [ApiVersion(2, 1)]
     public class ForceLiquidMerge : TerrariaPlugin
     {
-        public override Version Version => new Version(1, 0, 0, 0);
+        public override Version Version => new Version(1, 0, 0, 1);
         public override string Name => "Dimensions-MCL_ForceLiquidMerging";
         public override string Author => "Vednix";
         public ForceLiquidMerge(Main game) : base(game)
@@ -41,7 +41,7 @@ namespace dimensions_mcl.forceliquidmerge
             if (e == null)
                 return;
 
-            if (e.MsgId == PacketTypes.TileSendSquare && e.number5 != 0)
+            if (e.MsgId == PacketTypes.TileSendSquare && e.number5 != 0 && e.number5 <= 3)
             {
                 //Console.WriteLine($"e.Handled => {e.Handled}");
                 //Console.WriteLine($"e.ignoreClient => {e.ignoreClient}");
