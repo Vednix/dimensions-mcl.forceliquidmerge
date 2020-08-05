@@ -1,0 +1,5 @@
+C:\Users\fabio\source\repos\dimensions-mcl.forceliquidmerge\dimensions-mcl.forceliquidmerge\bin\Release\dimensions-mcl.forceliquidmerge.dll
+C:\Users\fabio\source\repos\dimensions-mcl.forceliquidmerge\dimensions-mcl.forceliquidmerge\bin\Release\dimensions-mcl.forceliquidmerge.pdb
+C:\Users\fabio\source\repos\dimensions-mcl.forceliquidmerge\dimensions-mcl.forceliquidmerge\obj\Release\dimensions-mcl.forceliquidmerge.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\dimensions-mcl.forceliquidmerge\dimensions-mcl.forceliquidmerge\obj\Release\dimensions-mcl.forceliquidmerge.dll
+C:\Users\fabio\source\repos\dimensions-mcl.forceliquidmerge\dimensions-mcl.forceliquidmerge\obj\Release\dimensions-mcl.forceliquidmerge.pdb
